@@ -1,5 +1,5 @@
 ---
-title: About
+title: About TEST
 permalink: "/about/"
 layout: page
 ---
