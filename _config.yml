@@ -8,6 +8,9 @@ collections:
   slider:
     title: Slider
     output: true
+  slider-shmaider:
+    title: Slider-shmaider
+    output: true
   uploads:
     title: Uploads
     output: true
